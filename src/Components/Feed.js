@@ -71,7 +71,7 @@ function Feed() {
                     <h3>Batch: {originalBatch}</h3>
                     <h3>Month Enrolled: {month}</h3>
                     <h3>Fees: {fees}</h3>
-                    { fees === "unpaid" && <button style={{ fontFamily: "Montserrat", background: "#000", color: "#fff", marginBottom: "25px", fontSize: "16px" }} onClick={payFees}>Pay fees</button>}
+                    { fees === "unpaid" && <button style={{ fontFamily: "Montserrat", background: "#000", color: "#fff", marginBottom: "25px", fontSize: "16px" }} onClick={payFees}>Pay fees Rs.500</button>}
 
                 </Box>
 
