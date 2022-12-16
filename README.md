@@ -4,6 +4,8 @@ This project is made using React and Firebase.
 
 Basically it presents a form to enroll in a **Yoga course**.
 
+**Live Demo** : https://yoga-app-assignment.netlify.app/login
+
 
 The main features of this application include: 
 - It allows users to signup to the yoga course and creates an account for the user. **Firebase Authentication** has been used for this puropse.
