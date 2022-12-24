@@ -1,12 +1,10 @@
 # YogaForm-React-Firebase-
 
-**Live Demo:** https://yoga-app-assignment.netlify.app
-
 This project is made using React and Firebase.
 
 Basically it presents a form to enroll in a **Yoga course**.
 
-**Live Demo** : https://yoga-app-assignment.netlify.app/
+**Live Demo:** https://yoga-app-assignment.netlify.app
 
 
 The main features of this application include:
